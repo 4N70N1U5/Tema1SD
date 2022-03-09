@@ -10,8 +10,8 @@ private:
     long long n, m, b;
 public:
     numbers();
-    void reset();
     // ~numbers();
+    void reset();
     void afisare();
 };
 
