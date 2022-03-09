@@ -3,5 +3,7 @@
 
 int main()
 {
-    
+    numbers obj;
+    obj.afisare();
+    return 0;
 }

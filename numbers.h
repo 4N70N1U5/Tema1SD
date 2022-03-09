@@ -6,10 +6,13 @@
 class numbers
 {
 private:
-    std::vector<int> V;
+    std::vector<long long> V, BCK;
+    long long n, m, b;
 public:
-    numbers(long long, long long);
-    ~numbers();
+    numbers();
+    void reset();
+    // ~numbers();
+    void afisare();
 };
 
 #endif
