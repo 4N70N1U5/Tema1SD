@@ -3,7 +3,13 @@
 
 int main()
 {
-    numbers obj;
-    obj.afisare();
+    numbers l;
+    
+    l.radixSort();
+    
+    l.mergeSort();
+
+    l.cppSort();
+
     return 0;
 }

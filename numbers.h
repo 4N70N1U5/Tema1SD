@@ -10,9 +10,14 @@ private:
     long long n, m, b;
 public:
     numbers();
-    // ~numbers();
     void reset();
-    void afisare();
+    bool sorted();
+    void radixSort();
+    void merge(long long, long long, long long);
+    void mergeSort(long long, long long);
+    void mergeSort();
+    void shellSort();
+    void cppSort();
 };
 
 #endif
