@@ -132,6 +132,38 @@ void numbers::mergeSort()
     reset();
 }
 
+void numbers::shellSort()
+{
+    std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
+
+    for (int g = n/2; g > 0; g /= 2)
+    {
+        for (int i = g; i < n; i += 1)
+        {
+            int aux = V[i];
+
+            int j;           
+            for (j = i; j >= g && V[j - g] > aux; j -= g)
+                V[j] = V[j - g];
+            
+            V[j] = aux;
+        }
+    }
+
+    std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
+    
+    if (!sorted())
+        o << "Vectorul nu este sortat! - Shell Sort\n";
+
+    o << "Durata Shell Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
+    o << "Durata Shell Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
+    o << "Durata Shell Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
+
+    o << '\n';
+
+    reset();
+}
+
 void numbers::cppSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();

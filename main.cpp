@@ -9,6 +9,8 @@ int main()
     
     l.mergeSort();
 
+    l.shellSort();
+
     l.cppSort();
 
     return 0;
