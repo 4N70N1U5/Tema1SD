@@ -1,9 +1,9 @@
 #include "numbers.h"
 #include <iostream>
 #include <fstream>
+#include <algorithm>
 #include <vector>
 #include <time.h>
-#include <sys/time.h>
 #include <chrono>
 
 std::ifstream i("teste.in");
