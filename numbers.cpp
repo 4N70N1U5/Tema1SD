@@ -8,7 +8,7 @@
 std::ifstream i("teste.in");
 std::ofstream o("rezultate.out");
 
-numbers::numbers()
+Numbers::Numbers()
 {
     i >> n >> m >> b;
     srand(time(NULL));
@@ -19,13 +19,13 @@ numbers::numbers()
     }
 }
 
-void numbers::reset()
+void Numbers::reset()
 {
     for (long long i = 0; i < n; i++)
         V[i] = BCK[i];
 }
 
-bool numbers::sorted()
+bool Numbers::sorted()
 {
     for (long long i = 0; i < n - 1; i++)
         if (V[i] > V[i + 1])
@@ -33,7 +33,7 @@ bool numbers::sorted()
     return true;
 }
 
-void numbers::radixSort()
+void Numbers::radixSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
@@ -56,7 +56,7 @@ void numbers::radixSort()
     reset();
 }
 
-void numbers::merge(long long lft, long long mid, long long rgt)
+void Numbers::merge(long long lft, long long mid, long long rgt)
 {
     long long n_lft = mid - lft + 1, n_rgt = rgt - mid;
 
@@ -100,7 +100,7 @@ void numbers::merge(long long lft, long long mid, long long rgt)
     }
 }
 
-void numbers::mergeSort(long long lft, long long rgt)
+void Numbers::mergeSort(long long lft, long long rgt)
 {
     if (lft >= rgt)
         return;
@@ -111,7 +111,7 @@ void numbers::mergeSort(long long lft, long long rgt)
     merge(lft, mid, rgt);
 }
 
-void numbers::mergeSort()
+void Numbers::mergeSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
@@ -131,7 +131,7 @@ void numbers::mergeSort()
     reset();
 }
 
-void numbers::shellSort()
+void Numbers::shellSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
@@ -163,7 +163,7 @@ void numbers::shellSort()
     reset();
 }
 
-void numbers::cppSort()
+void Numbers::cppSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 

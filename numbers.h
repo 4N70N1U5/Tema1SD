@@ -3,13 +3,13 @@
 
 #include <vector>
 
-class numbers
+class Numbers
 {
 private:
     std::vector<long long> V, BCK;
     long long n, m, b;
 public:
-    numbers();
+    Numbers();
     void reset();
     bool sorted();
     void radixSort();

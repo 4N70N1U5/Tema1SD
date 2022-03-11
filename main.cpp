@@ -2,7 +2,7 @@
 
 int main()
 {
-    numbers l;
+    Numbers l;
     
     l.radixSort();
     
