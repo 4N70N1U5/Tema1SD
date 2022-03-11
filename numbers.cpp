@@ -1,10 +1,9 @@
 #include "numbers.h"
 #include <iostream>
 #include <fstream>
-#include <vector>
-#include <time.h>
-#include <sys/time.h>
+#include <algorithm>
 #include <chrono>
+#include <vector>
 
 std::ifstream i("teste.in");
 std::ofstream o("rezultate.out");
@@ -46,7 +45,7 @@ void numbers::radixSort()
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
     
     if (!sorted())
-        o << "Vectorul nu este sortat! - Radix Sort\n";
+        o << "!!! Vectorul nu este sortat! - Radix Sort\n";
 
     o << "Durata Radix Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
     o << "Durata Radix Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
@@ -121,7 +120,7 @@ void numbers::mergeSort()
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
     
     if (!sorted())
-        o << "Vectorul nu este sortat! - Merge Sort\n";
+        o << "!!! Vectorul nu este sortat! - Merge Sort\n";
 
     o << "Durata Merge Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
     o << "Durata Merge Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
@@ -136,9 +135,9 @@ void numbers::shellSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
-    for (int g = n/2; g > 0; g /= 2)
+    for (int g = n / 2; g > 0; g /= 2)
     {
-        for (int i = g; i < n; i += 1)
+        for (int i = g; i < n; i++)
         {
             int aux = V[i];
 
@@ -153,7 +152,7 @@ void numbers::shellSort()
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
     
     if (!sorted())
-        o << "Vectorul nu este sortat! - Shell Sort\n";
+        o << "!!! Vectorul nu este sortat! - Shell Sort\n";
 
     o << "Durata Shell Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
     o << "Durata Shell Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
@@ -173,7 +172,7 @@ void numbers::cppSort()
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
     
     if (!sorted())
-        o << "Vectorul nu este sortat! - C++ Sort\n";
+        o << "!!! Vectorul nu este sortat! - C++ Sort\n";
 
     o << "Durata C++ Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
     o << "Durata C++ Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
