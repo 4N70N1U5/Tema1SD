@@ -1,4 +1,6 @@
 #include "numbers.h"
+#include <iostream>
+#include <vector>
 
 int main()
 {
@@ -9,6 +11,8 @@ int main()
     l.mergeSort();
 
     l.shellSort();
+
+    l.countingSort();
 
     l.cppSort();
 

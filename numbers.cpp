@@ -4,6 +4,7 @@
 #include <algorithm>
 #include <chrono>
 #include <vector>
+#include <cstring>
 
 std::ifstream i("teste.in");
 std::ofstream o("rezultate.out");
@@ -37,10 +38,15 @@ void Numbers::radixSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
-    long long mx = V[0];
+    long long mx = V[0], d = 0;
     for (long long i = 1; i < n; i++)
         if (mx < V[i])
             mx = V[i];
+
+    for (mx; mx; mx /= 10)
+        d++;
+
+    
 
     std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
     
@@ -52,6 +58,8 @@ void Numbers::radixSort()
     o << "Durata Radix Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
 
     o << '\n';
+
+    std::cout << "Radix Sort done!\n\n";
 
     reset();
 }
@@ -128,6 +136,8 @@ void Numbers::mergeSort()
 
     o << '\n';
 
+    std::cout << "Merge Sort done!\n\n";
+
     reset();
 }
 
@@ -135,13 +145,13 @@ void Numbers::shellSort()
 {
     std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
 
-    for (int g = n / 2; g > 0; g /= 2)
+    for (long long g = n / 2; g > 0; g /= 2)
     {
-        for (int i = g; i < n; i++)
+        for (long long i = g; i < n; i++)
         {
-            int aux = V[i];
+            long long aux = V[i];
 
-            int j;           
+            long long j;           
             for (j = i; j >= g && V[j - g] > aux; j -= g)
                 V[j] = V[j - g];
             
@@ -160,6 +170,57 @@ void Numbers::shellSort()
 
     o << '\n';
 
+    std::cout << "Shell Sort done!\n\n";
+
+    reset();
+}
+
+void Numbers::countingSort()
+{
+    std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
+
+    long long mn, mx;
+
+    mn = mx = V[0];
+    for (long long i = 1; i < n; i++)
+    {
+        if (mx < V[i])
+            mx = V[i];
+        if (mn > V[i])
+            mn = V[i];
+    }
+
+    std::vector<long long> C(mx - mn + 1);
+
+    for (long long i = 0; i < n; i++)
+    {
+        C[V[i] - mn]++;
+    }
+
+    long long i = 0;
+    for (long long j = 0; j < mx - mn + 1; j++)
+    {
+        while (C[j])
+        {
+            V[i] = j + mn;
+            C[j]--;
+            i++;
+        }
+    }
+
+    std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
+
+    if (!sorted())
+        o << "!!! Vectorul nu este sortat! - Counting Sort\n";
+
+    o << "Durata Counting Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata Counting Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata Counting Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
+
+    o << '\n';
+
+    std::cout << "Counting Sort done!\n\n";
+
     reset();
 }
 
@@ -174,11 +235,13 @@ void Numbers::cppSort()
     if (!sorted())
         o << "!!! Vectorul nu este sortat! - C++ Sort\n";
 
-    o << "Durata C++ Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
-    o << "Durata C++ Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
-    o << "Durata C++ Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
+    o << "Durata C++ Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata C++ Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata C++ Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
 
     o << '\n';
+
+    std::cout << "C++ Sort done!\n\n";
 
     reset();
 }
