@@ -6,7 +6,7 @@
 class Numbers
 {
 private:
-    std::vector<long long> V, BCK;
+    std::vector <long long> V, BCK;
     long long n, m;
 public:
     Numbers();

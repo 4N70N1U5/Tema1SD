@@ -5,18 +5,24 @@
 #include <chrono>
 #include <vector>
 
-std::ifstream i("teste.in");
-std::ofstream o("rezultate.out");
+std::ifstream i("teste.txt");
+std::ofstream o("rezultate.txt");
 
 Numbers::Numbers()
 {
     i >> n >> m;
+
     srand(time(NULL));
+
     for (long long i = 0; i < n; i++)
     {
         V.push_back(rand() % m);
         BCK.push_back(V[i]);
     }
+
+    o << n << " numere; Valoarea maxima " << m << ".\n\n";
+
+    std::cout << "\nTest with " << n << " numbers, max value " << m << ".\n";
 }
 
 void Numbers::reset()
@@ -327,7 +333,7 @@ void Numbers::cppSort()
     o << "Durata C++ Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
     o << "Durata C++ Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
 
-    o << '\n';
+    o << "\n\n\n";
 
     std::cout << "C++ Sort done!\n";
 
