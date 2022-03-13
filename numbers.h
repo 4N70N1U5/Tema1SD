@@ -17,6 +17,9 @@ public:
     void mergeSort(long long, long long);
     void mergeSort();
     void shellSort();
+    long long partition(long long, long long);
+    void quickSort(long long, long long);
+    void quickSort();
     void countingSort();
     void cppSort();
 };

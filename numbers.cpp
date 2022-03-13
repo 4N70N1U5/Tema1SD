@@ -4,7 +4,6 @@
 #include <algorithm>
 #include <chrono>
 #include <vector>
-#include <cstring>
 
 std::ifstream i("teste.in");
 std::ofstream o("rezultate.out");
@@ -53,9 +52,9 @@ void Numbers::radixSort()
     if (!sorted())
         o << "!!! Vectorul nu este sortat! - Radix Sort\n";
 
-    o << "Durata Radix Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
-    o << "Durata Radix Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
-    o << "Durata Radix Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
+    o << "Durata Radix Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata Radix Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata Radix Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
 
     o << '\n';
 
@@ -130,9 +129,9 @@ void Numbers::mergeSort()
     if (!sorted())
         o << "!!! Vectorul nu este sortat! - Merge Sort\n";
 
-    o << "Durata Merge Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
-    o << "Durata Merge Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
-    o << "Durata Merge Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
+    o << "Durata Merge Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata Merge Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata Merge Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
 
     o << '\n';
 
@@ -164,13 +163,101 @@ void Numbers::shellSort()
     if (!sorted())
         o << "!!! Vectorul nu este sortat! - Shell Sort\n";
 
-    o << "Durata Shell Sort in secunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0  << " secunde.\n";
-    o << "Durata Shell Sort in microsecunde: " <<  (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count())  << " microsecunde.\n";
-    o << "Durata Shell Sort in nanosecunde: " <<  (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count())<< " nanosecunde.\n";
+    o << "Durata Shell Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata Shell Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata Shell Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
 
     o << '\n';
 
     std::cout << "Shell Sort done!\n\n";
+
+    reset();
+}
+
+/*long long Numbers::partition(long long lft, long long rgt)
+{
+    long long mid = (lft + rgt) / 2;
+
+    if (V[lft] > V[mid])
+        std::swap(V[lft], V[mid]);
+    if (V[mid] > V[rgt])
+        std::swap(V[mid], V[rgt]);
+    if (V[lft] > V[mid])
+        std::swap(V[lft], V[mid]);
+
+    std::swap(V[mid], V[rgt - 1]);
+
+    long long p = V[rgt - 1], i = lft, j = rgt - 1;
+
+    while (true)
+    {
+        while (V[++i] < p);
+        while (V[--j] > p);
+
+        if (i >= j)
+            break;
+
+        std::swap(V[i], V[j]);
+    }
+
+    //std::swap(V[i], V[rgt - 1]);
+
+    V[rgt - 1] = V[i];
+    V[i] = p;
+
+    return i;
+}*/
+
+long long Numbers::partition(long long lft, long long rgt)
+{
+    long long p = V[rgt], i = lft - 1, j = rgt;
+
+    while (true)
+    {
+        while (V[++i] < p);
+        while (V[--j] > p);
+
+        if (i >= j)
+            break;
+
+        std::swap(V[i], V[j]);
+    }
+
+    V[rgt] = V[i];
+    V[i] = p;
+
+    return i;
+}
+
+void Numbers::quickSort(long long lft, long long rgt)
+{
+    if (lft < rgt)
+    {
+        long long pvt = partition(lft, rgt);
+
+        quickSort(lft, pvt - 1);
+        quickSort(pvt + 1, rgt);
+    }
+}
+
+void Numbers::quickSort()
+{
+    std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
+
+    quickSort(0, n - 1);
+
+    std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
+    
+    if (!sorted())
+        o << "!!! Vectorul nu este sortat! - Quick Sort\n";
+
+    o << "Durata Quick Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+    o << "Durata Quick Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+    o << "Durata Quick Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
+
+    o << '\n';
+
+    std::cout << "Quick Sort done!\n\n";
 
     reset();
 }
