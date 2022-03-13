@@ -7,11 +7,12 @@ class Numbers
 {
 private:
     std::vector<long long> V, BCK;
-    long long n, m, b;
+    long long n, m;
 public:
     Numbers();
     void reset();
     bool sorted();
+    void bucketSortForRadix(long long, long long);
     void radixSort();
     void merge(long long, long long, long long);
     void mergeSort(long long, long long);

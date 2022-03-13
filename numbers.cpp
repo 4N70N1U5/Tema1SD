@@ -10,7 +10,7 @@ std::ofstream o("rezultate.out");
 
 Numbers::Numbers()
 {
-    i >> n >> m >> b;
+    i >> n >> m;
     srand(time(NULL));
     for (long long i = 0; i < n; i++)
     {
@@ -33,34 +33,68 @@ bool Numbers::sorted()
     return true;
 }
 
+void Numbers::bucketSortForRadix(long long rb, long long pwr)
+{
+    std::vector < std::vector <long long> > B(1 << rb);
+
+    for (int i = 0; i < n; i++)
+    {
+        B[(V[i] >> pwr) % (1 << rb)].push_back(V[i]);
+    }
+
+    long long i = 0;
+
+    for (long long j = 0; j < 1 << rb; j++)
+    {
+        for (long long k = 0; k < B[j].size(); k++)
+        {
+            V[i++] = B[j][k];
+        }
+    }
+}
+
 void Numbers::radixSort()
 {
-    std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
+    int rbs[4] = { 2, 4, 8, 16 };
 
-    long long mx = V[0], d = 0;
-    for (long long i = 1; i < n; i++)
-        if (mx < V[i])
-            mx = V[i];
+    for (int aux = 0; aux < 4; aux++)
+    {
+        int rb = rbs[aux];
 
-    for (mx; mx; mx /= 10)
-        d++;
+        std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
+
+        long long mx = V[0], d = 0, pwr = 0;
+        
+        for (long long i = 1; i < n; i++)
+            if (mx < V[i])
+                mx = V[i];
+
+        for (mx; mx; mx = mx >> rb)
+            d++;
+
+        for (int i = 0; i < d; i++)
+        {
+            bucketSortForRadix(rb, pwr);
+            pwr += rb;
+        }
+
+        std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
+        
+        if (!sorted())
+            o << "!!! Vectorul nu este sortat! - Radix Sort cu baza 2^" << rb << '\n';
+
+        o << "Durata Radix Sort cu baza 2^" << rb << " in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
+        o << "Durata Radix Sort cu baza 2^" << rb << " in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
+        o << "Durata Radix Sort cu baza 2^" << rb << " in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
+
+        o << '\n';
+
+        std::cout << "Radix Sort with base 2^" << rb << " done!\n";
+
+        reset();
+    }
 
     
-
-    std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
-    
-    if (!sorted())
-        o << "!!! Vectorul nu este sortat! - Radix Sort\n";
-
-    o << "Durata Radix Sort in secunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) / 1000000.0 << " secunde.\n";
-    o << "Durata Radix Sort in microsecunde: " << (std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count()) << " microsecunde.\n";
-    o << "Durata Radix Sort in nanosecunde: " << (std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count()) << " nanosecunde.\n";
-
-    o << '\n';
-
-    std::cout << "Radix Sort done!\n\n";
-
-    reset();
 }
 
 void Numbers::merge(long long lft, long long mid, long long rgt)
@@ -113,6 +147,7 @@ void Numbers::mergeSort(long long lft, long long rgt)
         return;
 
     long long mid = lft + (rgt - lft) / 2;
+    
     mergeSort(lft, mid);
     mergeSort(mid + 1, rgt);
     merge(lft, mid, rgt);
@@ -135,7 +170,7 @@ void Numbers::mergeSort()
 
     o << '\n';
 
-    std::cout << "Merge Sort done!\n\n";
+    std::cout << "Merge Sort done!\n";
 
     reset();
 }
@@ -169,44 +204,10 @@ void Numbers::shellSort()
 
     o << '\n';
 
-    std::cout << "Shell Sort done!\n\n";
+    std::cout << "Shell Sort done!\n";
 
     reset();
 }
-
-/*long long Numbers::partition(long long lft, long long rgt)
-{
-    long long mid = (lft + rgt) / 2;
-
-    if (V[lft] > V[mid])
-        std::swap(V[lft], V[mid]);
-    if (V[mid] > V[rgt])
-        std::swap(V[mid], V[rgt]);
-    if (V[lft] > V[mid])
-        std::swap(V[lft], V[mid]);
-
-    std::swap(V[mid], V[rgt - 1]);
-
-    long long p = V[rgt - 1], i = lft, j = rgt - 1;
-
-    while (true)
-    {
-        while (V[++i] < p);
-        while (V[--j] > p);
-
-        if (i >= j)
-            break;
-
-        std::swap(V[i], V[j]);
-    }
-
-    //std::swap(V[i], V[rgt - 1]);
-
-    V[rgt - 1] = V[i];
-    V[i] = p;
-
-    return i;
-}*/
 
 long long Numbers::partition(long long lft, long long rgt)
 {
@@ -257,7 +258,7 @@ void Numbers::quickSort()
 
     o << '\n';
 
-    std::cout << "Quick Sort done!\n\n";
+    std::cout << "Quick Sort done!\n";
 
     reset();
 }
@@ -306,7 +307,7 @@ void Numbers::countingSort()
 
     o << '\n';
 
-    std::cout << "Counting Sort done!\n\n";
+    std::cout << "Counting Sort done!\n";
 
     reset();
 }
@@ -328,7 +329,7 @@ void Numbers::cppSort()
 
     o << '\n';
 
-    std::cout << "C++ Sort done!\n\n";
+    std::cout << "C++ Sort done!\n";
 
     reset();
 }
