@@ -1,0 +1,1960 @@
+100 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 2.8e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 28 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 28000 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 2.9e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 29 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 29500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 4.3e-05 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 43 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 43700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003407 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3407 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3407100 nanosecunde.
+
+Durata Merge Sort in secunde: 3.9e-05 secunde.
+Durata Merge Sort in microsecunde: 39 microsecunde.
+Durata Merge Sort in nanosecunde: 39800 nanosecunde.
+
+Durata Shell Sort in secunde: 9e-06 secunde.
+Durata Shell Sort in microsecunde: 9 microsecunde.
+Durata Shell Sort in nanosecunde: 9900 nanosecunde.
+
+Durata Quick Sort in secunde: 1e-05 secunde.
+Durata Quick Sort in microsecunde: 10 microsecunde.
+Durata Quick Sort in nanosecunde: 10000 nanosecunde.
+
+Durata Counting Sort in secunde: 3e-06 secunde.
+Durata Counting Sort in microsecunde: 3 microsecunde.
+Durata Counting Sort in nanosecunde: 3000 nanosecunde.
+
+Durata C++ Sort in secunde: 2.8e-05 secunde.
+Durata C++ Sort in microsecunde: 28 microsecunde.
+Durata C++ Sort in nanosecunde: 28300 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 7.6e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 76 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 76200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 7.1e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 71 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 71600 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 8.8e-05 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 88 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 88400 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003492 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3492 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3492600 nanosecunde.
+
+Durata Merge Sort in secunde: 3.7e-05 secunde.
+Durata Merge Sort in microsecunde: 37 microsecunde.
+Durata Merge Sort in nanosecunde: 37200 nanosecunde.
+
+Durata Shell Sort in secunde: 1e-05 secunde.
+Durata Shell Sort in microsecunde: 10 microsecunde.
+Durata Shell Sort in nanosecunde: 10700 nanosecunde.
+
+Durata Quick Sort in secunde: 7e-06 secunde.
+Durata Quick Sort in microsecunde: 7 microsecunde.
+Durata Quick Sort in nanosecunde: 7500 nanosecunde.
+
+Durata Counting Sort in secunde: 2.5e-05 secunde.
+Durata Counting Sort in microsecunde: 25 microsecunde.
+Durata Counting Sort in nanosecunde: 25400 nanosecunde.
+
+Durata C++ Sort in secunde: 1.1e-05 secunde.
+Durata C++ Sort in microsecunde: 11 microsecunde.
+Durata C++ Sort in nanosecunde: 11300 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 6.6e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 66 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 66700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 6.9e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 69 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 69800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 7.7e-05 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 77 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 77800 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003137 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3137 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3137400 nanosecunde.
+
+Durata Merge Sort in secunde: 4.9e-05 secunde.
+Durata Merge Sort in microsecunde: 49 microsecunde.
+Durata Merge Sort in nanosecunde: 49000 nanosecunde.
+
+Durata Shell Sort in secunde: 1e-05 secunde.
+Durata Shell Sort in microsecunde: 10 microsecunde.
+Durata Shell Sort in nanosecunde: 10200 nanosecunde.
+
+Durata Quick Sort in secunde: 7e-06 secunde.
+Durata Quick Sort in microsecunde: 7 microsecunde.
+Durata Quick Sort in nanosecunde: 7600 nanosecunde.
+
+Durata Counting Sort in secunde: 4.8e-05 secunde.
+Durata Counting Sort in microsecunde: 48 microsecunde.
+Durata Counting Sort in nanosecunde: 48300 nanosecunde.
+
+Durata C++ Sort in secunde: 1.1e-05 secunde.
+Durata C++ Sort in microsecunde: 11 microsecunde.
+Durata C++ Sort in nanosecunde: 11300 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 6.3e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 63 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 63300 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 6e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 60 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 60400 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000112 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 112 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 112600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.005935 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5935 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5935900 nanosecunde.
+
+Durata Merge Sort in secunde: 4.7e-05 secunde.
+Durata Merge Sort in microsecunde: 47 microsecunde.
+Durata Merge Sort in nanosecunde: 47900 nanosecunde.
+
+Durata Shell Sort in secunde: 9e-06 secunde.
+Durata Shell Sort in microsecunde: 9 microsecunde.
+Durata Shell Sort in nanosecunde: 9800 nanosecunde.
+
+Durata Quick Sort in secunde: 9e-06 secunde.
+Durata Quick Sort in microsecunde: 9 microsecunde.
+Durata Quick Sort in nanosecunde: 9700 nanosecunde.
+
+Durata Counting Sort in secunde: 0.00042 secunde.
+Durata Counting Sort in microsecunde: 420 microsecunde.
+Durata Counting Sort in nanosecunde: 420000 nanosecunde.
+
+Durata C++ Sort in secunde: 1.1e-05 secunde.
+Durata C++ Sort in microsecunde: 11 microsecunde.
+Durata C++ Sort in nanosecunde: 11100 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000108 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 108 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 108100 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 9.3e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 93 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 93500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000117 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 117 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 117000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.005773 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5773 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5773600 nanosecunde.
+
+Durata Merge Sort in secunde: 4.5e-05 secunde.
+Durata Merge Sort in microsecunde: 45 microsecunde.
+Durata Merge Sort in nanosecunde: 45700 nanosecunde.
+
+Durata Shell Sort in secunde: 1e-05 secunde.
+Durata Shell Sort in microsecunde: 10 microsecunde.
+Durata Shell Sort in nanosecunde: 10300 nanosecunde.
+
+Durata Quick Sort in secunde: 7e-06 secunde.
+Durata Quick Sort in microsecunde: 7 microsecunde.
+Durata Quick Sort in nanosecunde: 7800 nanosecunde.
+
+Durata Counting Sort in secunde: 0.004769 secunde.
+Durata Counting Sort in microsecunde: 4769 microsecunde.
+Durata Counting Sort in nanosecunde: 4769200 nanosecunde.
+
+Durata C++ Sort in secunde: 1.2e-05 secunde.
+Durata C++ Sort in microsecunde: 12 microsecunde.
+Durata C++ Sort in nanosecunde: 12700 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 8e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 80 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 80900 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 7.6e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 76 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 76300 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 9.4e-05 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 94 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 94700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.00572 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5720 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5720700 nanosecunde.
+
+Durata Merge Sort in secunde: 3.8e-05 secunde.
+Durata Merge Sort in microsecunde: 38 microsecunde.
+Durata Merge Sort in nanosecunde: 38600 nanosecunde.
+
+Durata Shell Sort in secunde: 9e-06 secunde.
+Durata Shell Sort in microsecunde: 9 microsecunde.
+Durata Shell Sort in nanosecunde: 9000 nanosecunde.
+
+Durata Quick Sort in secunde: 7e-06 secunde.
+Durata Quick Sort in microsecunde: 7 microsecunde.
+Durata Quick Sort in nanosecunde: 7000 nanosecunde.
+
+Durata Counting Sort in secunde: 0.049567 secunde.
+Durata Counting Sort in microsecunde: 49567 microsecunde.
+Durata Counting Sort in nanosecunde: 49567900 nanosecunde.
+
+Durata C++ Sort in secunde: 2.1e-05 secunde.
+Durata C++ Sort in microsecunde: 21 microsecunde.
+Durata C++ Sort in nanosecunde: 21100 nanosecunde.
+
+
+
+100 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 9.8e-05 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 98 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 98200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 9.7e-05 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 97 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 97800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000129 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 129 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 129100 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.005667 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5667 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5667400 nanosecunde.
+
+Durata Merge Sort in secunde: 3.7e-05 secunde.
+Durata Merge Sort in microsecunde: 37 microsecunde.
+Durata Merge Sort in nanosecunde: 37500 nanosecunde.
+
+Durata Shell Sort in secunde: 1e-05 secunde.
+Durata Shell Sort in microsecunde: 10 microsecunde.
+Durata Shell Sort in nanosecunde: 10300 nanosecunde.
+
+Durata Quick Sort in secunde: 7e-06 secunde.
+Durata Quick Sort in microsecunde: 7 microsecunde.
+Durata Quick Sort in nanosecunde: 7500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.454927 secunde.
+Durata Counting Sort in microsecunde: 454927 microsecunde.
+Durata Counting Sort in nanosecunde: 454927200 nanosecunde.
+
+Durata C++ Sort in secunde: 1.2e-05 secunde.
+Durata C++ Sort in microsecunde: 12 microsecunde.
+Durata C++ Sort in nanosecunde: 12200 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000146 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 146 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 146100 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000101 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 101 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 101700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000148 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 148 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 148500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003017 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3017 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3017000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.00039 secunde.
+Durata Merge Sort in microsecunde: 390 microsecunde.
+Durata Merge Sort in nanosecunde: 390200 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000174 secunde.
+Durata Shell Sort in microsecunde: 174 microsecunde.
+Durata Shell Sort in nanosecunde: 174000 nanosecunde.
+
+Durata Quick Sort in secunde: 0.000107 secunde.
+Durata Quick Sort in microsecunde: 107 microsecunde.
+Durata Quick Sort in nanosecunde: 107600 nanosecunde.
+
+Durata Counting Sort in secunde: 1.4e-05 secunde.
+Durata Counting Sort in microsecunde: 14 microsecunde.
+Durata Counting Sort in nanosecunde: 14300 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000172 secunde.
+Durata C++ Sort in microsecunde: 172 microsecunde.
+Durata C++ Sort in nanosecunde: 172100 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000186 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 186 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 186800 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000165 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 165 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 165300 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000301 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 301 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 301300 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003035 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3035 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3035400 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000422 secunde.
+Durata Merge Sort in microsecunde: 422 microsecunde.
+Durata Merge Sort in nanosecunde: 422700 nanosecunde.
+
+Durata Shell Sort in secunde: 0.00017 secunde.
+Durata Shell Sort in microsecunde: 170 microsecunde.
+Durata Shell Sort in nanosecunde: 170900 nanosecunde.
+
+Durata Quick Sort in secunde: 9.8e-05 secunde.
+Durata Quick Sort in microsecunde: 98 microsecunde.
+Durata Quick Sort in nanosecunde: 98700 nanosecunde.
+
+Durata Counting Sort in secunde: 3.1e-05 secunde.
+Durata Counting Sort in microsecunde: 31 microsecunde.
+Durata Counting Sort in nanosecunde: 31800 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000195 secunde.
+Durata C++ Sort in microsecunde: 195 microsecunde.
+Durata C++ Sort in nanosecunde: 195700 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000278 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 278 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 278600 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000199 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 199 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 199800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000351 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 351 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 351600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.00312 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3120 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3120400 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000418 secunde.
+Durata Merge Sort in microsecunde: 418 microsecunde.
+Durata Merge Sort in nanosecunde: 418600 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000165 secunde.
+Durata Shell Sort in microsecunde: 165 microsecunde.
+Durata Shell Sort in nanosecunde: 165900 nanosecunde.
+
+Durata Quick Sort in secunde: 0.0001 secunde.
+Durata Quick Sort in microsecunde: 100 microsecunde.
+Durata Quick Sort in nanosecunde: 100200 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000104 secunde.
+Durata Counting Sort in microsecunde: 104 microsecunde.
+Durata Counting Sort in nanosecunde: 104000 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000213 secunde.
+Durata C++ Sort in microsecunde: 213 microsecunde.
+Durata C++ Sort in nanosecunde: 213700 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000337 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 337 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 337900 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000234 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 234 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 234500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000351 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 351 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 351600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.005858 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5858 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5858000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000428 secunde.
+Durata Merge Sort in microsecunde: 428 microsecunde.
+Durata Merge Sort in nanosecunde: 428900 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000163 secunde.
+Durata Shell Sort in microsecunde: 163 microsecunde.
+Durata Shell Sort in nanosecunde: 163700 nanosecunde.
+
+Durata Quick Sort in secunde: 0.000102 secunde.
+Durata Quick Sort in microsecunde: 102 microsecunde.
+Durata Quick Sort in nanosecunde: 102600 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000468 secunde.
+Durata Counting Sort in microsecunde: 468 microsecunde.
+Durata Counting Sort in nanosecunde: 468400 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000159 secunde.
+Durata C++ Sort in microsecunde: 159 microsecunde.
+Durata C++ Sort in nanosecunde: 159100 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000415 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 415 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 415400 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.00025 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 250 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 250100 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000384 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 384 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 384600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.005866 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5866 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5866500 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000431 secunde.
+Durata Merge Sort in microsecunde: 431 microsecunde.
+Durata Merge Sort in nanosecunde: 431500 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000159 secunde.
+Durata Shell Sort in microsecunde: 159 microsecunde.
+Durata Shell Sort in nanosecunde: 159500 nanosecunde.
+
+Durata Quick Sort in secunde: 0.00011 secunde.
+Durata Quick Sort in microsecunde: 110 microsecunde.
+Durata Quick Sort in nanosecunde: 110800 nanosecunde.
+
+Durata Counting Sort in secunde: 0.004644 secunde.
+Durata Counting Sort in microsecunde: 4644 microsecunde.
+Durata Counting Sort in nanosecunde: 4644500 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000165 secunde.
+Durata C++ Sort in microsecunde: 165 microsecunde.
+Durata C++ Sort in nanosecunde: 165300 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000458 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 458 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 458300 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000298 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 298 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 298600 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.00047 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 470 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 470500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.006121 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 6121 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 6121600 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000425 secunde.
+Durata Merge Sort in microsecunde: 425 microsecunde.
+Durata Merge Sort in nanosecunde: 425800 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000172 secunde.
+Durata Shell Sort in microsecunde: 172 microsecunde.
+Durata Shell Sort in nanosecunde: 172200 nanosecunde.
+
+Durata Quick Sort in secunde: 0.000101 secunde.
+Durata Quick Sort in microsecunde: 101 microsecunde.
+Durata Quick Sort in nanosecunde: 101300 nanosecunde.
+
+Durata Counting Sort in secunde: 0.04354 secunde.
+Durata Counting Sort in microsecunde: 43540 microsecunde.
+Durata Counting Sort in nanosecunde: 43540900 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000147 secunde.
+Durata C++ Sort in microsecunde: 147 microsecunde.
+Durata C++ Sort in nanosecunde: 147500 nanosecunde.
+
+
+
+1000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.000612 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 612 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 612700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000345 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 345 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 345700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000531 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 531 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 531500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.006007 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 6007 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 6007300 nanosecunde.
+
+Durata Merge Sort in secunde: 0.000435 secunde.
+Durata Merge Sort in microsecunde: 435 microsecunde.
+Durata Merge Sort in nanosecunde: 435200 nanosecunde.
+
+Durata Shell Sort in secunde: 0.000174 secunde.
+Durata Shell Sort in microsecunde: 174 microsecunde.
+Durata Shell Sort in nanosecunde: 174700 nanosecunde.
+
+Durata Quick Sort in secunde: 0.00011 secunde.
+Durata Quick Sort in microsecunde: 110 microsecunde.
+Durata Quick Sort in nanosecunde: 110700 nanosecunde.
+
+Durata Counting Sort in secunde: 0.4022 secunde.
+Durata Counting Sort in microsecunde: 402200 microsecunde.
+Durata Counting Sort in nanosecunde: 402200000 nanosecunde.
+
+Durata C++ Sort in secunde: 0.000151 secunde.
+Durata C++ Sort in microsecunde: 151 microsecunde.
+Durata C++ Sort in nanosecunde: 151200 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.001283 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 1283 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 1283200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000657 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 657 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 657700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000494 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 494 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 494500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003438 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3438 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3438800 nanosecunde.
+
+Durata Merge Sort in secunde: 0.00451 secunde.
+Durata Merge Sort in microsecunde: 4510 microsecunde.
+Durata Merge Sort in nanosecunde: 4510300 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002008 secunde.
+Durata Shell Sort in microsecunde: 2008 microsecunde.
+Durata Shell Sort in nanosecunde: 2008100 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001076 secunde.
+Durata Quick Sort in microsecunde: 1076 microsecunde.
+Durata Quick Sort in nanosecunde: 1076600 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000123 secunde.
+Durata Counting Sort in microsecunde: 123 microsecunde.
+Durata Counting Sort in nanosecunde: 123000 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001604 secunde.
+Durata C++ Sort in microsecunde: 1604 microsecunde.
+Durata C++ Sort in nanosecunde: 1604500 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.00154 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 1540 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 1540000 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.000998 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 998 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 998500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000909 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 909 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 909700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.003964 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3964 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3964600 nanosecunde.
+
+Durata Merge Sort in secunde: 0.004653 secunde.
+Durata Merge Sort in microsecunde: 4653 microsecunde.
+Durata Merge Sort in nanosecunde: 4653100 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002354 secunde.
+Durata Shell Sort in microsecunde: 2354 microsecunde.
+Durata Shell Sort in nanosecunde: 2354700 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001208 secunde.
+Durata Quick Sort in microsecunde: 1208 microsecunde.
+Durata Quick Sort in nanosecunde: 1208100 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000135 secunde.
+Durata Counting Sort in microsecunde: 135 microsecunde.
+Durata Counting Sort in nanosecunde: 135700 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001906 secunde.
+Durata C++ Sort in microsecunde: 1906 microsecunde.
+Durata C++ Sort in nanosecunde: 1906800 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.002213 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 2213 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 2213700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.001278 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1278 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1278500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.000975 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 975 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 975900 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.00467 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 4670 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 4670300 nanosecunde.
+
+Durata Merge Sort in secunde: 0.004785 secunde.
+Durata Merge Sort in microsecunde: 4785 microsecunde.
+Durata Merge Sort in nanosecunde: 4785700 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002629 secunde.
+Durata Shell Sort in microsecunde: 2629 microsecunde.
+Durata Shell Sort in nanosecunde: 2629300 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001303 secunde.
+Durata Quick Sort in microsecunde: 1303 microsecunde.
+Durata Quick Sort in nanosecunde: 1303600 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000259 secunde.
+Durata Counting Sort in microsecunde: 259 microsecunde.
+Durata Counting Sort in nanosecunde: 259200 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001931 secunde.
+Durata C++ Sort in microsecunde: 1931 microsecunde.
+Durata C++ Sort in nanosecunde: 1931300 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.002668 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 2668 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 2668100 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.001585 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1585 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1585000 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.001463 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 1463 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 1463700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.008171 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 8171 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 8171500 nanosecunde.
+
+Durata Merge Sort in secunde: 0.004774 secunde.
+Durata Merge Sort in microsecunde: 4774 microsecunde.
+Durata Merge Sort in nanosecunde: 4774500 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002631 secunde.
+Durata Shell Sort in microsecunde: 2631 microsecunde.
+Durata Shell Sort in nanosecunde: 2631300 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001297 secunde.
+Durata Quick Sort in microsecunde: 1297 microsecunde.
+Durata Quick Sort in nanosecunde: 1297500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.000656 secunde.
+Durata Counting Sort in microsecunde: 656 microsecunde.
+Durata Counting Sort in nanosecunde: 656500 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001967 secunde.
+Durata C++ Sort in microsecunde: 1967 microsecunde.
+Durata C++ Sort in nanosecunde: 1967400 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.003489 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 3489 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 3489700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.001637 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1637 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1637700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.001515 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 1515 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 1515500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.008015 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 8015 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 8015100 nanosecunde.
+
+Durata Merge Sort in secunde: 0.005425 secunde.
+Durata Merge Sort in microsecunde: 5425 microsecunde.
+Durata Merge Sort in nanosecunde: 5425700 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002718 secunde.
+Durata Shell Sort in microsecunde: 2718 microsecunde.
+Durata Shell Sort in nanosecunde: 2718800 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001314 secunde.
+Durata Quick Sort in microsecunde: 1314 microsecunde.
+Durata Quick Sort in nanosecunde: 1314900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.004748 secunde.
+Durata Counting Sort in microsecunde: 4748 microsecunde.
+Durata Counting Sort in nanosecunde: 4748300 nanosecunde.
+
+Durata C++ Sort in secunde: 0.002059 secunde.
+Durata C++ Sort in microsecunde: 2059 microsecunde.
+Durata C++ Sort in nanosecunde: 2059000 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.003637 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 3637 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 3637700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.001926 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1926 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1926100 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.001668 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 1668 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 1668600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.008225 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 8225 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 8225300 nanosecunde.
+
+Durata Merge Sort in secunde: 0.006467 secunde.
+Durata Merge Sort in microsecunde: 6467 microsecunde.
+Durata Merge Sort in nanosecunde: 6467300 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002592 secunde.
+Durata Shell Sort in microsecunde: 2592 microsecunde.
+Durata Shell Sort in nanosecunde: 2592000 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001318 secunde.
+Durata Quick Sort in microsecunde: 1318 microsecunde.
+Durata Quick Sort in nanosecunde: 1318900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.044656 secunde.
+Durata Counting Sort in microsecunde: 44656 microsecunde.
+Durata Counting Sort in nanosecunde: 44656100 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001945 secunde.
+Durata C++ Sort in microsecunde: 1945 microsecunde.
+Durata C++ Sort in nanosecunde: 1945300 nanosecunde.
+
+
+
+10000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.004209 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 4209 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 4209300 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.002239 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 2239 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 2239900 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.002047 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 2047 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 2047500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.009216 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 9216 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 9216600 nanosecunde.
+
+Durata Merge Sort in secunde: 0.004745 secunde.
+Durata Merge Sort in microsecunde: 4745 microsecunde.
+Durata Merge Sort in nanosecunde: 4745400 nanosecunde.
+
+Durata Shell Sort in secunde: 0.002541 secunde.
+Durata Shell Sort in microsecunde: 2541 microsecunde.
+Durata Shell Sort in nanosecunde: 2541400 nanosecunde.
+
+Durata Quick Sort in secunde: 0.001317 secunde.
+Durata Quick Sort in microsecunde: 1317 microsecunde.
+Durata Quick Sort in nanosecunde: 1317500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.403552 secunde.
+Durata Counting Sort in microsecunde: 403552 microsecunde.
+Durata Counting Sort in nanosecunde: 403552400 nanosecunde.
+
+Durata C++ Sort in secunde: 0.001949 secunde.
+Durata C++ Sort in microsecunde: 1949 microsecunde.
+Durata C++ Sort in nanosecunde: 1949500 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.011864 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 11864 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 11864500 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.006018 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 6018 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 6018900 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.003308 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 3308 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 3308300 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.006553 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 6553 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 6553000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.049013 secunde.
+Durata Merge Sort in microsecunde: 49013 microsecunde.
+Durata Merge Sort in nanosecunde: 49013600 nanosecunde.
+
+Durata Shell Sort in secunde: 0.02341 secunde.
+Durata Shell Sort in microsecunde: 23410 microsecunde.
+Durata Shell Sort in nanosecunde: 23410100 nanosecunde.
+
+Durata Quick Sort in secunde: 0.012983 secunde.
+Durata Quick Sort in microsecunde: 12983 microsecunde.
+Durata Quick Sort in nanosecunde: 12983500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.001205 secunde.
+Durata Counting Sort in microsecunde: 1205 microsecunde.
+Durata Counting Sort in nanosecunde: 1205900 nanosecunde.
+
+Durata C++ Sort in secunde: 0.020316 secunde.
+Durata C++ Sort in microsecunde: 20316 microsecunde.
+Durata C++ Sort in nanosecunde: 20316800 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.01477 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 14770 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 14770800 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.00895 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 8950 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 8950800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.006585 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 6585 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 6585300 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.007436 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 7436 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 7436200 nanosecunde.
+
+Durata Merge Sort in secunde: 0.050483 secunde.
+Durata Merge Sort in microsecunde: 50483 microsecunde.
+Durata Merge Sort in nanosecunde: 50483300 nanosecunde.
+
+Durata Shell Sort in secunde: 0.031162 secunde.
+Durata Shell Sort in microsecunde: 31162 microsecunde.
+Durata Shell Sort in nanosecunde: 31162300 nanosecunde.
+
+Durata Quick Sort in secunde: 0.014044 secunde.
+Durata Quick Sort in microsecunde: 14044 microsecunde.
+Durata Quick Sort in nanosecunde: 14044300 nanosecunde.
+
+Durata Counting Sort in secunde: 0.001219 secunde.
+Durata Counting Sort in microsecunde: 1219 microsecunde.
+Durata Counting Sort in nanosecunde: 1219700 nanosecunde.
+
+Durata C++ Sort in secunde: 0.020648 secunde.
+Durata C++ Sort in microsecunde: 20648 microsecunde.
+Durata C++ Sort in nanosecunde: 20648500 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.020617 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 20617 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 20617200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.012203 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 12203 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 12203900 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.006541 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 6541 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 6541000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.014242 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 14242 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 14242000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.074975 secunde.
+Durata Merge Sort in microsecunde: 74975 microsecunde.
+Durata Merge Sort in nanosecunde: 74975700 nanosecunde.
+
+Durata Shell Sort in secunde: 0.038384 secunde.
+Durata Shell Sort in microsecunde: 38384 microsecunde.
+Durata Shell Sort in nanosecunde: 38384400 nanosecunde.
+
+Durata Quick Sort in secunde: 0.015176 secunde.
+Durata Quick Sort in microsecunde: 15176 microsecunde.
+Durata Quick Sort in nanosecunde: 15176900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.001409 secunde.
+Durata Counting Sort in microsecunde: 1409 microsecunde.
+Durata Counting Sort in nanosecunde: 1409100 nanosecunde.
+
+Durata C++ Sort in secunde: 0.02317 secunde.
+Durata C++ Sort in microsecunde: 23170 microsecunde.
+Durata C++ Sort in nanosecunde: 23170100 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.026559 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 26559 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 26559400 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.015028 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 15028 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 15028500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.009903 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 9903 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 9903100 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.046836 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 46836 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 46836600 nanosecunde.
+
+Durata Merge Sort in secunde: 0.055665 secunde.
+Durata Merge Sort in microsecunde: 55665 microsecunde.
+Durata Merge Sort in nanosecunde: 55665600 nanosecunde.
+
+Durata Shell Sort in secunde: 0.039625 secunde.
+Durata Shell Sort in microsecunde: 39625 microsecunde.
+Durata Shell Sort in nanosecunde: 39625500 nanosecunde.
+
+Durata Quick Sort in secunde: 0.015915 secunde.
+Durata Quick Sort in microsecunde: 15915 microsecunde.
+Durata Quick Sort in nanosecunde: 15915500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.002599 secunde.
+Durata Counting Sort in microsecunde: 2599 microsecunde.
+Durata Counting Sort in nanosecunde: 2599600 nanosecunde.
+
+Durata C++ Sort in secunde: 0.024329 secunde.
+Durata C++ Sort in microsecunde: 24329 microsecunde.
+Durata C++ Sort in nanosecunde: 24329300 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.029225 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 29225 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 29225300 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.014864 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 14864 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 14864600 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.009968 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 9968 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 9968500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.029947 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 29947 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 29947400 nanosecunde.
+
+Durata Merge Sort in secunde: 0.052841 secunde.
+Durata Merge Sort in microsecunde: 52841 microsecunde.
+Durata Merge Sort in nanosecunde: 52841200 nanosecunde.
+
+Durata Shell Sort in secunde: 0.038675 secunde.
+Durata Shell Sort in microsecunde: 38675 microsecunde.
+Durata Shell Sort in nanosecunde: 38675300 nanosecunde.
+
+Durata Quick Sort in secunde: 0.015762 secunde.
+Durata Quick Sort in microsecunde: 15762 microsecunde.
+Durata Quick Sort in nanosecunde: 15762300 nanosecunde.
+
+Durata Counting Sort in secunde: 0.008204 secunde.
+Durata Counting Sort in microsecunde: 8204 microsecunde.
+Durata Counting Sort in nanosecunde: 8204700 nanosecunde.
+
+Durata C++ Sort in secunde: 0.024074 secunde.
+Durata C++ Sort in microsecunde: 24074 microsecunde.
+Durata C++ Sort in nanosecunde: 24074900 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.034775 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 34775 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 34775700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.017712 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 17712 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 17712600 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.010154 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 10154 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 10154000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.03079 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 30790 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 30790600 nanosecunde.
+
+Durata Merge Sort in secunde: 0.051983 secunde.
+Durata Merge Sort in microsecunde: 51983 microsecunde.
+Durata Merge Sort in nanosecunde: 51983200 nanosecunde.
+
+Durata Shell Sort in secunde: 0.038323 secunde.
+Durata Shell Sort in microsecunde: 38323 microsecunde.
+Durata Shell Sort in nanosecunde: 38323100 nanosecunde.
+
+Durata Quick Sort in secunde: 0.016199 secunde.
+Durata Quick Sort in microsecunde: 16199 microsecunde.
+Durata Quick Sort in nanosecunde: 16199900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.047452 secunde.
+Durata Counting Sort in microsecunde: 47452 microsecunde.
+Durata Counting Sort in nanosecunde: 47452300 nanosecunde.
+
+Durata C++ Sort in secunde: 0.023346 secunde.
+Durata C++ Sort in microsecunde: 23346 microsecunde.
+Durata C++ Sort in nanosecunde: 23346000 nanosecunde.
+
+
+
+100000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.040603 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 40603 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 40603000 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.020665 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 20665 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 20665200 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.013174 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 13174 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 13174300 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.032009 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 32009 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 32009300 nanosecunde.
+
+Durata Merge Sort in secunde: 0.05353 secunde.
+Durata Merge Sort in microsecunde: 53530 microsecunde.
+Durata Merge Sort in nanosecunde: 53530100 nanosecunde.
+
+Durata Shell Sort in secunde: 0.038653 secunde.
+Durata Shell Sort in microsecunde: 38653 microsecunde.
+Durata Shell Sort in nanosecunde: 38653000 nanosecunde.
+
+Durata Quick Sort in secunde: 0.015828 secunde.
+Durata Quick Sort in microsecunde: 15828 microsecunde.
+Durata Quick Sort in nanosecunde: 15828100 nanosecunde.
+
+Durata Counting Sort in secunde: 0.427384 secunde.
+Durata Counting Sort in microsecunde: 427384 microsecunde.
+Durata Counting Sort in nanosecunde: 427384600 nanosecunde.
+
+Durata C++ Sort in secunde: 0.024147 secunde.
+Durata C++ Sort in microsecunde: 24147 microsecunde.
+Durata C++ Sort in nanosecunde: 24147900 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.119097 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 119097 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 119097700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.060793 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 60793 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 60793200 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.032211 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 32211 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 32211400 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.035187 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 35187 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 35187800 nanosecunde.
+
+Durata Merge Sort in secunde: 0.510323 secunde.
+Durata Merge Sort in microsecunde: 510323 microsecunde.
+Durata Merge Sort in nanosecunde: 510323500 nanosecunde.
+
+Durata Shell Sort in secunde: 0.265756 secunde.
+Durata Shell Sort in microsecunde: 265756 microsecunde.
+Durata Shell Sort in nanosecunde: 265756400 nanosecunde.
+
+Durata Quick Sort in secunde: 0.145053 secunde.
+Durata Quick Sort in microsecunde: 145053 microsecunde.
+Durata Quick Sort in nanosecunde: 145053900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.012653 secunde.
+Durata Counting Sort in microsecunde: 12653 microsecunde.
+Durata Counting Sort in nanosecunde: 12653300 nanosecunde.
+
+Durata C++ Sort in secunde: 0.231135 secunde.
+Durata C++ Sort in microsecunde: 231135 microsecunde.
+Durata C++ Sort in nanosecunde: 231135800 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.147927 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 147927 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 147927400 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.089772 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 89772 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 89772700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.061579 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 61579 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 61579100 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.037094 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 37094 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 37094000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.536174 secunde.
+Durata Merge Sort in microsecunde: 536174 microsecunde.
+Durata Merge Sort in nanosecunde: 536174100 nanosecunde.
+
+Durata Shell Sort in secunde: 0.404948 secunde.
+Durata Shell Sort in microsecunde: 404948 microsecunde.
+Durata Shell Sort in nanosecunde: 404948600 nanosecunde.
+
+Durata Quick Sort in secunde: 0.148292 secunde.
+Durata Quick Sort in microsecunde: 148292 microsecunde.
+Durata Quick Sort in nanosecunde: 148292500 nanosecunde.
+
+Durata Counting Sort in secunde: 0.01251 secunde.
+Durata Counting Sort in microsecunde: 12510 microsecunde.
+Durata Counting Sort in nanosecunde: 12510300 nanosecunde.
+
+Durata C++ Sort in secunde: 0.24098 secunde.
+Durata C++ Sort in microsecunde: 240980 microsecunde.
+Durata C++ Sort in nanosecunde: 240980600 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.206464 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 206464 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 206464600 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.119112 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 119112 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 119112500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.062044 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 62044 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 62044600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.052821 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 52821 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 52821100 nanosecunde.
+
+Durata Merge Sort in secunde: 0.542363 secunde.
+Durata Merge Sort in microsecunde: 542363 microsecunde.
+Durata Merge Sort in nanosecunde: 542363900 nanosecunde.
+
+Durata Shell Sort in secunde: 0.473848 secunde.
+Durata Shell Sort in microsecunde: 473848 microsecunde.
+Durata Shell Sort in nanosecunde: 473848100 nanosecunde.
+
+Durata Quick Sort in secunde: 0.158456 secunde.
+Durata Quick Sort in microsecunde: 158456 microsecunde.
+Durata Quick Sort in nanosecunde: 158456700 nanosecunde.
+
+Durata Counting Sort in secunde: 0.013458 secunde.
+Durata Counting Sort in microsecunde: 13458 microsecunde.
+Durata Counting Sort in nanosecunde: 13458700 nanosecunde.
+
+Durata C++ Sort in secunde: 0.240841 secunde.
+Durata C++ Sort in microsecunde: 240841 microsecunde.
+Durata C++ Sort in nanosecunde: 240841100 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.265679 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 265679 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 265679600 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.147882 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 147882 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 147882800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.091013 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 91013 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 91013900 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.145739 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 145739 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 145739000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.559648 secunde.
+Durata Merge Sort in microsecunde: 559648 microsecunde.
+Durata Merge Sort in nanosecunde: 559648400 nanosecunde.
+
+Durata Shell Sort in secunde: 0.495586 secunde.
+Durata Shell Sort in microsecunde: 495586 microsecunde.
+Durata Shell Sort in nanosecunde: 495586900 nanosecunde.
+
+Durata Quick Sort in secunde: 0.173778 secunde.
+Durata Quick Sort in microsecunde: 173778 microsecunde.
+Durata Quick Sort in nanosecunde: 173778700 nanosecunde.
+
+Durata Counting Sort in secunde: 0.015358 secunde.
+Durata Counting Sort in microsecunde: 15358 microsecunde.
+Durata Counting Sort in nanosecunde: 15358900 nanosecunde.
+
+Durata C++ Sort in secunde: 0.264669 secunde.
+Durata C++ Sort in microsecunde: 264669 microsecunde.
+Durata C++ Sort in nanosecunde: 264669000 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.291548 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 291548 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 291548500 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.148737 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 148737 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 148737700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.091227 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 91227 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 91227400 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.143294 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 143294 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 143294900 nanosecunde.
+
+Durata Merge Sort in secunde: 0.56651 secunde.
+Durata Merge Sort in microsecunde: 566510 microsecunde.
+Durata Merge Sort in nanosecunde: 566510600 nanosecunde.
+
+Durata Shell Sort in secunde: 0.515385 secunde.
+Durata Shell Sort in microsecunde: 515385 microsecunde.
+Durata Shell Sort in nanosecunde: 515385000 nanosecunde.
+
+Durata Quick Sort in secunde: 0.178705 secunde.
+Durata Quick Sort in microsecunde: 178705 microsecunde.
+Durata Quick Sort in nanosecunde: 178705000 nanosecunde.
+
+Durata Counting Sort in secunde: 0.033989 secunde.
+Durata Counting Sort in microsecunde: 33989 microsecunde.
+Durata Counting Sort in nanosecunde: 33989500 nanosecunde.
+
+Durata C++ Sort in secunde: 0.274824 secunde.
+Durata C++ Sort in microsecunde: 274824 microsecunde.
+Durata C++ Sort in nanosecunde: 274824500 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.350446 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 350446 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 350446400 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.17624 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 176240 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 176240900 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.09076 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 90760 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 90760600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.144438 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 144438 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 144438000 nanosecunde.
+
+Durata Merge Sort in secunde: 0.555972 secunde.
+Durata Merge Sort in microsecunde: 555972 microsecunde.
+Durata Merge Sort in nanosecunde: 555972700 nanosecunde.
+
+Durata Shell Sort in secunde: 0.524095 secunde.
+Durata Shell Sort in microsecunde: 524095 microsecunde.
+Durata Shell Sort in nanosecunde: 524095600 nanosecunde.
+
+Durata Quick Sort in secunde: 0.185191 secunde.
+Durata Quick Sort in microsecunde: 185191 microsecunde.
+Durata Quick Sort in nanosecunde: 185191900 nanosecunde.
+
+Durata Counting Sort in secunde: 0.084557 secunde.
+Durata Counting Sort in microsecunde: 84557 microsecunde.
+Durata Counting Sort in nanosecunde: 84557200 nanosecunde.
+
+Durata C++ Sort in secunde: 0.277473 secunde.
+Durata C++ Sort in microsecunde: 277473 microsecunde.
+Durata C++ Sort in nanosecunde: 277473100 nanosecunde.
+
+
+
+1000000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 0.406404 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 406404 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 406404600 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.204487 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 204487 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 204487500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.122215 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 122215 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 122215100 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.150092 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 150092 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 150092300 nanosecunde.
+
+Durata Merge Sort in secunde: 0.558307 secunde.
+Durata Merge Sort in microsecunde: 558307 microsecunde.
+Durata Merge Sort in nanosecunde: 558307000 nanosecunde.
+
+Durata Shell Sort in secunde: 0.536869 secunde.
+Durata Shell Sort in microsecunde: 536869 microsecunde.
+Durata Shell Sort in nanosecunde: 536869500 nanosecunde.
+
+Durata Quick Sort in secunde: 0.18732 secunde.
+Durata Quick Sort in microsecunde: 187320 microsecunde.
+Durata Quick Sort in nanosecunde: 187320000 nanosecunde.
+
+Durata Counting Sort in secunde: 0.504976 secunde.
+Durata Counting Sort in microsecunde: 504976 microsecunde.
+Durata Counting Sort in nanosecunde: 504976100 nanosecunde.
+
+Durata C++ Sort in secunde: 0.276882 secunde.
+Durata C++ Sort in microsecunde: 276882 microsecunde.
+Durata C++ Sort in nanosecunde: 276882800 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 1.22742 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 1227423 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 1227423900 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.687484 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 687484 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 687484500 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.333693 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 333693 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 333693500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.338755 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 338755 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 338755200 nanosecunde.
+
+Durata Merge Sort in secunde: 5.64292 secunde.
+Durata Merge Sort in microsecunde: 5642925 microsecunde.
+Durata Merge Sort in nanosecunde: 5642925400 nanosecunde.
+
+Durata Shell Sort in secunde: 3.07646 secunde.
+Durata Shell Sort in microsecunde: 3076458 microsecunde.
+Durata Shell Sort in nanosecunde: 3076458500 nanosecunde.
+
+Durata Quick Sort in secunde: 1.62724 secunde.
+Durata Quick Sort in microsecunde: 1627240 microsecunde.
+Durata Quick Sort in nanosecunde: 1627240100 nanosecunde.
+
+Durata Counting Sort in secunde: 0.122736 secunde.
+Durata Counting Sort in microsecunde: 122736 microsecunde.
+Durata Counting Sort in nanosecunde: 122736100 nanosecunde.
+
+Durata C++ Sort in secunde: 2.67895 secunde.
+Durata C++ Sort in microsecunde: 2678953 microsecunde.
+Durata C++ Sort in nanosecunde: 2678953500 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 1.5369 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 1536902 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 1536902900 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 0.958573 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 958573 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 958573400 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.649344 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 649344 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 649344100 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.354567 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 354567 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 354567200 nanosecunde.
+
+Durata Merge Sort in secunde: 5.6796 secunde.
+Durata Merge Sort in microsecunde: 5679605 microsecunde.
+Durata Merge Sort in nanosecunde: 5679605100 nanosecunde.
+
+Durata Shell Sort in secunde: 4.50932 secunde.
+Durata Shell Sort in microsecunde: 4509321 microsecunde.
+Durata Shell Sort in nanosecunde: 4509321300 nanosecunde.
+
+Durata Quick Sort in secunde: 1.71752 secunde.
+Durata Quick Sort in microsecunde: 1717521 microsecunde.
+Durata Quick Sort in nanosecunde: 1717521400 nanosecunde.
+
+Durata Counting Sort in secunde: 0.122506 secunde.
+Durata Counting Sort in microsecunde: 122506 microsecunde.
+Durata Counting Sort in nanosecunde: 122506100 nanosecunde.
+
+Durata C++ Sort in secunde: 2.7375 secunde.
+Durata C++ Sort in microsecunde: 2737500 microsecunde.
+Durata C++ Sort in nanosecunde: 2737500500 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 2.14389 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 2143886 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 2143886200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 1.23718 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1237181 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1237181700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.651988 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 651988 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 651988800 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.448132 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 448132 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 448132500 nanosecunde.
+
+Durata Merge Sort in secunde: 5.84547 secunde.
+Durata Merge Sort in microsecunde: 5845469 microsecunde.
+Durata Merge Sort in nanosecunde: 5845469300 nanosecunde.
+
+Durata Shell Sort in secunde: 6.28193 secunde.
+Durata Shell Sort in microsecunde: 6281930 microsecunde.
+Durata Shell Sort in nanosecunde: 6281930700 nanosecunde.
+
+Durata Quick Sort in secunde: 1.83794 secunde.
+Durata Quick Sort in microsecunde: 1837936 microsecunde.
+Durata Quick Sort in nanosecunde: 1837936100 nanosecunde.
+
+Durata Counting Sort in secunde: 0.121779 secunde.
+Durata Counting Sort in microsecunde: 121779 microsecunde.
+Durata Counting Sort in nanosecunde: 121779000 nanosecunde.
+
+Durata C++ Sort in secunde: 2.78453 secunde.
+Durata C++ Sort in microsecunde: 2784533 microsecunde.
+Durata C++ Sort in nanosecunde: 2784533600 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 2.75894 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 2758938 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 2758938700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 1.56348 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1563480 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1563480400 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.962024 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 962024 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 962024000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.910265 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 910265 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 910265900 nanosecunde.
+
+Durata Merge Sort in secunde: 6.01061 secunde.
+Durata Merge Sort in microsecunde: 6010612 microsecunde.
+Durata Merge Sort in nanosecunde: 6010612200 nanosecunde.
+
+Durata Shell Sort in secunde: 7.25072 secunde.
+Durata Shell Sort in microsecunde: 7250718 microsecunde.
+Durata Shell Sort in nanosecunde: 7250718300 nanosecunde.
+
+Durata Quick Sort in secunde: 1.93416 secunde.
+Durata Quick Sort in microsecunde: 1934156 microsecunde.
+Durata Quick Sort in nanosecunde: 1934156700 nanosecunde.
+
+Durata Counting Sort in secunde: 0.139691 secunde.
+Durata Counting Sort in microsecunde: 139691 microsecunde.
+Durata Counting Sort in nanosecunde: 139691900 nanosecunde.
+
+Durata C++ Sort in secunde: 2.86636 secunde.
+Durata C++ Sort in microsecunde: 2866361 microsecunde.
+Durata C++ Sort in nanosecunde: 2866361500 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 3.02753 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 3027528 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 3027528100 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 1.54117 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1541175 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1541175000 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.981596 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 981596 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 981596500 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.969284 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 969284 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 969284600 nanosecunde.
+
+Durata Merge Sort in secunde: 6.24348 secunde.
+Durata Merge Sort in microsecunde: 6243482 microsecunde.
+Durata Merge Sort in nanosecunde: 6243482500 nanosecunde.
+
+Durata Shell Sort in secunde: 7.71274 secunde.
+Durata Shell Sort in microsecunde: 7712744 microsecunde.
+Durata Shell Sort in nanosecunde: 7712744000 nanosecunde.
+
+Durata Quick Sort in secunde: 2.03996 secunde.
+Durata Quick Sort in microsecunde: 2039961 microsecunde.
+Durata Quick Sort in nanosecunde: 2039961100 nanosecunde.
+
+Durata Counting Sort in secunde: 0.202467 secunde.
+Durata Counting Sort in microsecunde: 202467 microsecunde.
+Durata Counting Sort in nanosecunde: 202467500 nanosecunde.
+
+Durata C++ Sort in secunde: 3.12432 secunde.
+Durata C++ Sort in microsecunde: 3124315 microsecunde.
+Durata C++ Sort in nanosecunde: 3124315300 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 3.66581 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 3665814 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 3665814700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 1.82454 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 1824543 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 1824543700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 0.981041 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 981041 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 981041600 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.953675 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 953675 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 953675900 nanosecunde.
+
+Durata Merge Sort in secunde: 6.18906 secunde.
+Durata Merge Sort in microsecunde: 6189056 microsecunde.
+Durata Merge Sort in nanosecunde: 6189056700 nanosecunde.
+
+Durata Shell Sort in secunde: 7.9355 secunde.
+Durata Shell Sort in microsecunde: 7935503 microsecunde.
+Durata Shell Sort in nanosecunde: 7935503200 nanosecunde.
+
+Durata Quick Sort in secunde: 2.13498 secunde.
+Durata Quick Sort in microsecunde: 2134981 microsecunde.
+Durata Quick Sort in nanosecunde: 2134981600 nanosecunde.
+
+Durata Counting Sort in secunde: 0.422555 secunde.
+Durata Counting Sort in microsecunde: 422555 microsecunde.
+Durata Counting Sort in nanosecunde: 422555400 nanosecunde.
+
+Durata C++ Sort in secunde: 3.22286 secunde.
+Durata C++ Sort in microsecunde: 3222858 microsecunde.
+Durata C++ Sort in nanosecunde: 3222858500 nanosecunde.
+
+
+
+10000000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 4.23223 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 4232231 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 4232231800 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 2.13119 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 2131195 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 2131195200 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 1.25114 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 1251136 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 1251136900 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 0.977579 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 977579 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 977579100 nanosecunde.
+
+Durata Merge Sort in secunde: 6.21892 secunde.
+Durata Merge Sort in microsecunde: 6218918 microsecunde.
+Durata Merge Sort in nanosecunde: 6218918500 nanosecunde.
+
+Durata Shell Sort in secunde: 7.89422 secunde.
+Durata Shell Sort in microsecunde: 7894222 microsecunde.
+Durata Shell Sort in nanosecunde: 7894222000 nanosecunde.
+
+Durata Quick Sort in secunde: 2.12527 secunde.
+Durata Quick Sort in microsecunde: 2125270 microsecunde.
+Durata Quick Sort in nanosecunde: 2125270300 nanosecunde.
+
+Durata Counting Sort in secunde: 0.888239 secunde.
+Durata Counting Sort in microsecunde: 888239 microsecunde.
+Durata Counting Sort in nanosecunde: 888239800 nanosecunde.
+
+Durata C++ Sort in secunde: 3.24229 secunde.
+Durata C++ Sort in microsecunde: 3242287 microsecunde.
+Durata C++ Sort in nanosecunde: 3242287300 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 100.
+
+Durata Radix Sort cu baza 2^2 in secunde: 12.202 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 12202048 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 12202048900 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 6.29692 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 6296917 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 6296917700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 3.269 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 3268996 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 3268996200 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 3.42886 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3428861 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3428861300 nanosecunde.
+
+Durata Merge Sort in secunde: 58.8124 secunde.
+Durata Merge Sort in microsecunde: 58812367 microsecunde.
+Durata Merge Sort in nanosecunde: 58812367200 nanosecunde.
+
+Durata Shell Sort in secunde: 35.2444 secunde.
+Durata Shell Sort in microsecunde: 35244428 microsecunde.
+Durata Shell Sort in nanosecunde: 35244428000 nanosecunde.
+
+Durata Quick Sort in secunde: 18.4134 secunde.
+Durata Quick Sort in microsecunde: 18413428 microsecunde.
+Durata Quick Sort in nanosecunde: 18413428300 nanosecunde.
+
+Durata Counting Sort in secunde: 1.20722 secunde.
+Durata Counting Sort in microsecunde: 1207221 microsecunde.
+Durata Counting Sort in nanosecunde: 1207221700 nanosecunde.
+
+Durata C++ Sort in secunde: 30.9405 secunde.
+Durata C++ Sort in microsecunde: 30940526 microsecunde.
+Durata C++ Sort in nanosecunde: 30940526200 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 1000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 15.0254 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 15025423 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 15025423200 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 9.29266 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 9292661 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 9292661700 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 6.39749 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 6397487 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 6397487800 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 3.54071 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 3540709 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 3540709100 nanosecunde.
+
+Durata Merge Sort in secunde: 60.1698 secunde.
+Durata Merge Sort in microsecunde: 60169845 microsecunde.
+Durata Merge Sort in nanosecunde: 60169845400 nanosecunde.
+
+Durata Shell Sort in secunde: 51.9467 secunde.
+Durata Shell Sort in microsecunde: 51946683 microsecunde.
+Durata Shell Sort in nanosecunde: 51946683300 nanosecunde.
+
+Durata Quick Sort in secunde: 19.2394 secunde.
+Durata Quick Sort in microsecunde: 19239352 microsecunde.
+Durata Quick Sort in nanosecunde: 19239352000 nanosecunde.
+
+Durata Counting Sort in secunde: 1.21378 secunde.
+Durata Counting Sort in microsecunde: 1213780 microsecunde.
+Durata Counting Sort in nanosecunde: 1213780200 nanosecunde.
+
+Durata C++ Sort in secunde: 31.2753 secunde.
+Durata C++ Sort in microsecunde: 31275305 microsecunde.
+Durata C++ Sort in nanosecunde: 31275305300 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 10000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 20.9533 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 20953341 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 20953341600 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 12.2744 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 12274363 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 12274363600 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 6.4081 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 6408096 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 6408096700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 5.26193 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 5261932 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 5261932500 nanosecunde.
+
+Durata Merge Sort in secunde: 61.9874 secunde.
+Durata Merge Sort in microsecunde: 61987399 microsecunde.
+Durata Merge Sort in nanosecunde: 61987399500 nanosecunde.
+
+Durata Shell Sort in secunde: 81.4061 secunde.
+Durata Shell Sort in microsecunde: 81406146 microsecunde.
+Durata Shell Sort in nanosecunde: 81406146600 nanosecunde.
+
+Durata Quick Sort in secunde: 20.1561 secunde.
+Durata Quick Sort in microsecunde: 20156138 microsecunde.
+Durata Quick Sort in nanosecunde: 20156138100 nanosecunde.
+
+Durata Counting Sort in secunde: 1.21959 secunde.
+Durata Counting Sort in microsecunde: 1219587 microsecunde.
+Durata Counting Sort in nanosecunde: 1219587000 nanosecunde.
+
+Durata C++ Sort in secunde: 31.913 secunde.
+Durata C++ Sort in microsecunde: 31912968 microsecunde.
+Durata C++ Sort in nanosecunde: 31912968400 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 100000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 26.9494 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 26949389 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 26949389700 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 15.1374 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 15137404 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 15137404200 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 9.60504 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 9605043 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 9605043000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 9.18147 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 9181470 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 9181470300 nanosecunde.
+
+Durata Merge Sort in secunde: 63.9426 secunde.
+Durata Merge Sort in microsecunde: 63942591 microsecunde.
+Durata Merge Sort in nanosecunde: 63942591500 nanosecunde.
+
+Durata Shell Sort in secunde: 103.229 secunde.
+Durata Shell Sort in microsecunde: 103229356 microsecunde.
+Durata Shell Sort in nanosecunde: 103229356100 nanosecunde.
+
+Durata Quick Sort in secunde: 21.0796 secunde.
+Durata Quick Sort in microsecunde: 21079645 microsecunde.
+Durata Quick Sort in nanosecunde: 21079645800 nanosecunde.
+
+Durata Counting Sort in secunde: 1.33722 secunde.
+Durata Counting Sort in microsecunde: 1337223 microsecunde.
+Durata Counting Sort in nanosecunde: 1337223000 nanosecunde.
+
+Durata C++ Sort in secunde: 32.2189 secunde.
+Durata C++ Sort in microsecunde: 32218887 microsecunde.
+Durata C++ Sort in nanosecunde: 32218887300 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 1000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 29.8339 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 29833941 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 29833941300 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 15.1453 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 15145279 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 15145279800 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 9.69738 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 9697382 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 9697382700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 10.0314 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 10031359 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 10031359700 nanosecunde.
+
+Durata Merge Sort in secunde: 65.7267 secunde.
+Durata Merge Sort in microsecunde: 65726740 microsecunde.
+Durata Merge Sort in nanosecunde: 65726740800 nanosecunde.
+
+Durata Shell Sort in secunde: 114.933 secunde.
+Durata Shell Sort in microsecunde: 114932612 microsecunde.
+Durata Shell Sort in nanosecunde: 114932612100 nanosecunde.
+
+Durata Quick Sort in secunde: 21.8089 secunde.
+Durata Quick Sort in microsecunde: 21808860 microsecunde.
+Durata Quick Sort in nanosecunde: 21808860500 nanosecunde.
+
+Durata Counting Sort in secunde: 1.66125 secunde.
+Durata Counting Sort in microsecunde: 1661251 microsecunde.
+Durata Counting Sort in nanosecunde: 1661251200 nanosecunde.
+
+Durata C++ Sort in secunde: 32.9979 secunde.
+Durata C++ Sort in microsecunde: 32997889 microsecunde.
+Durata C++ Sort in nanosecunde: 32997889800 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 10000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 35.7954 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 35795380 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 35795380500 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 18.124 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 18123995 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 18123995000 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 9.5599 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 9559896 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 9559896700 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 10.1375 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 10137469 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 10137469400 nanosecunde.
+
+Durata Merge Sort in secunde: 67.2752 secunde.
+Durata Merge Sort in microsecunde: 67275154 microsecunde.
+Durata Merge Sort in nanosecunde: 67275154700 nanosecunde.
+
+Durata Shell Sort in secunde: 114.838 secunde.
+Durata Shell Sort in microsecunde: 114838250 microsecunde.
+Durata Shell Sort in nanosecunde: 114838250800 nanosecunde.
+
+Durata Quick Sort in secunde: 23.3034 secunde.
+Durata Quick Sort in microsecunde: 23303427 microsecunde.
+Durata Quick Sort in nanosecunde: 23303427300 nanosecunde.
+
+Durata Counting Sort in secunde: 2.93882 secunde.
+Durata Counting Sort in microsecunde: 2938824 microsecunde.
+Durata Counting Sort in nanosecunde: 2938824300 nanosecunde.
+
+Durata C++ Sort in secunde: 35.2441 secunde.
+Durata C++ Sort in microsecunde: 35244131 microsecunde.
+Durata C++ Sort in nanosecunde: 35244131200 nanosecunde.
+
+
+
+100000000 numere; Valoarea maxima 100000000.
+
+Durata Radix Sort cu baza 2^2 in secunde: 42.4269 secunde.
+Durata Radix Sort cu baza 2^2 in microsecunde: 42426950 microsecunde.
+Durata Radix Sort cu baza 2^2 in nanosecunde: 42426950800 nanosecunde.
+
+Durata Radix Sort cu baza 2^4 in secunde: 21.0914 secunde.
+Durata Radix Sort cu baza 2^4 in microsecunde: 21091448 microsecunde.
+Durata Radix Sort cu baza 2^4 in nanosecunde: 21091448200 nanosecunde.
+
+Durata Radix Sort cu baza 2^8 in secunde: 12.8197 secunde.
+Durata Radix Sort cu baza 2^8 in microsecunde: 12819667 microsecunde.
+Durata Radix Sort cu baza 2^8 in nanosecunde: 12819667000 nanosecunde.
+
+Durata Radix Sort cu baza 2^16 in secunde: 11.0276 secunde.
+Durata Radix Sort cu baza 2^16 in microsecunde: 11027633 microsecunde.
+Durata Radix Sort cu baza 2^16 in nanosecunde: 11027633400 nanosecunde.
+
+Durata Merge Sort in secunde: 67.6064 secunde.
+Durata Merge Sort in microsecunde: 67606444 microsecunde.
+Durata Merge Sort in nanosecunde: 67606444600 nanosecunde.
+
+Durata Shell Sort in secunde: 118.355 secunde.
+Durata Shell Sort in microsecunde: 118355120 microsecunde.
+Durata Shell Sort in nanosecunde: 118355120800 nanosecunde.
+
+Durata Quick Sort in secunde: 24.0239 secunde.
+Durata Quick Sort in microsecunde: 24023855 microsecunde.
+Durata Quick Sort in nanosecunde: 24023855400 nanosecunde.
+
+Durata Counting Sort in secunde: 4.35047 secunde.
+Durata Counting Sort in microsecunde: 4350471 microsecunde.
+Durata Counting Sort in nanosecunde: 4350471800 nanosecunde.
+
+Durata C++ Sort in secunde: 36.3583 secunde.
+Durata C++ Sort in microsecunde: 36358340 microsecunde.
+Durata C++ Sort in nanosecunde: 36358340000 nanosecunde.
+
+
+
