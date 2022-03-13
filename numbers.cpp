@@ -16,7 +16,7 @@ Numbers::Numbers()
 
     for (long long i = 0; i < n; i++)
     {
-        V.push_back(rand() % m);
+        V.push_back(rand() % (m + 1));
         BCK.push_back(V[i]);
     }
 
