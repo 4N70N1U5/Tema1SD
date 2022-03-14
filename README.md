@@ -10,3 +10,5 @@ Acest program sorteaza siruri de numere cu lungimi si valori maxime variabile fo
 - C++ Sort
 
 Rezultatele obtinute sunt organizate intr-un document Excel cu tabele si grafice pentru a fi mai usor de comparat.
+
+###### Nitoi Antonio, Grupa 134
